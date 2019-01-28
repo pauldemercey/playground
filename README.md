@@ -1,5 +1,7 @@
 Project meant to explore reactjs and its associated build flow.
 
+[Live on github page](http://pauldemercey.github.io/playground)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
